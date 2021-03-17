@@ -8,7 +8,7 @@
    + Strategy/Values/Stakeholders
    + Capabilities/Information/Products
    + Organization/Initiatives
-## Application Portfolio
+## Application Architecture
    + Functional Requirements
    + Business Rules Management
    + Business & Information Services
