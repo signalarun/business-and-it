@@ -5,8 +5,17 @@
 
 ## Enterprise Architecture
 ## Business Architecture
+   + Strategy/Values/Stakeholders
+   + Capabilities/Information/Products
+   + Organization/Initiatives
 ## Application Portfolio
+   + Functional Requirements
+   + Business Rules Management
+   + Business & Information Services
 ## Solution Architecture
+   + Business & System Requirements
+   + Decisions/Business Processes
+   + Integration/Operations
 ## Data Architecture
    + Entities/Relationships
    + Data Access/Control/Security
