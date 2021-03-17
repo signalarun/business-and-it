@@ -7,3 +7,11 @@
 ## Business Architecture
 ## Application Portfolio
 ## Solution Architecture
+## Data Architecture
+   + Entities/Relationships
+   + Data Access/Control/Security
+   + Data Management/Governance
+## Technical Architecture
+   + Technology Stacks
+   + Platforms/Frameworks
+   + Infrastructure/Cybersecurity
