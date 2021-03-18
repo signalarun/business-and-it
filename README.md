@@ -12,9 +12,9 @@
    + Strategy/Values/Stakeholders
    + Capabilities/Information/Products
    + Organization/Initiatives
-## Application Architecture
+## [Application Architecture](https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/docs/feapo_adopted_architecture_d.pdf)
    Application Architecture represents the specification and structural partitioning of technology‐based automation in to business logic,userexperience,and data
-   perspectives as an enabler of business architecture and strategy
+   perspectives as an enabler of business architecture and strategy.
    + Functional Requirements
    + Business Rules Management
    + Business & Information Services
