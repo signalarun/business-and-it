@@ -13,6 +13,8 @@
    + Capabilities/Information/Products
    + Organization/Initiatives
 ## Application Architecture
+   Application Architecture represents the specification and structural partitioning of technology‐based automation in to business logic,userexperience,and data
+   perspectives as an enabler of business architecture and strategy
    + Functional Requirements
    + Business Rules Management
    + Business & Information Services
