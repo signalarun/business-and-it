@@ -5,6 +5,7 @@
 
 ## [Enterprise Architecture](https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/docs/feapo_adopted_architecture_d.pdf)
    Enterprise Architecture represents the holistic planning,analysis,design,and implementation for the development and execution of strategy by applying principles and practices to guide organizations through the integration and interoperation of all other architecture domains.
+   
 [![](http://img.youtube.com/vi/d6Is4g14r20/0.jpg)](http://www.youtube.com/watch?v=d6Is4g14r20 "What is Enterprise Architecture? A 6 minute explanatioN")
 ### [Business Architecture](https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/docs/feapo_adopted_architecture_d.pdf)
    Business Architecture represents holistic,multidimensional business views of:capabilities, end‐to‐end value 
