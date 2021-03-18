@@ -7,6 +7,7 @@
    Enterprise Architecture represents the holistic planning,analysis,design,and implementation for the development and execution of strategy by applying principles and practices to guide organizations through the integration and interoperation of all other architecture domains.
    
 [![](http://img.youtube.com/vi/d6Is4g14r20/0.jpg)](http://www.youtube.com/watch?v=d6Is4g14r20 "What is Enterprise Architecture? A 6 minute explanatioN")
+[![](http://img.youtube.com/vi/9TVc32M_gIY/0.jpg)](http://www.youtube.com/watch?v=9TVc32M_gIY "What is Enterprise Architecture (EA) and why is it important? EA concepts explained in a simple way.")
 ### [Business Architecture](https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/docs/feapo_adopted_architecture_d.pdf)
    Business Architecture represents holistic,multidimensional business views of:capabilities, end‐to‐end value 
    delivery,information,and organizational structure; and the relationships among these businessviews and strategies, products, policies, initiatives, and stakeholders.
